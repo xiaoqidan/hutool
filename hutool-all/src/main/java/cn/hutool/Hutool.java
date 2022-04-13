@@ -47,6 +47,10 @@ public class Hutool {
 	private Hutool() {
 	}
 
+	public static void main(String[] args) {
+		printAllUtils();
+	}
+
 	/**
 	 * 显示Hutool所有的工具类
 	 *
